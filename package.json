@@ -7,7 +7,7 @@
     "url": "https://github.com/ibmtjbot/tjbotlib/issues"
   },
   "dependencies": {
-    "aplay": "^1.0.0",
+    "aplay": "git://github.com/cdimascio/node-aplay",
     "assert": "^1.4.1",
     "asyncawait": "^1.0.6",
     "color-model": "^0.2.2",
